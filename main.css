@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_3 {
+  width: 390px;
+  height: 844px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_4 {
+  width: 337px;
+  height: 52px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 23px;
+  overflow: hidden;
+}
+.v1_5 {
+  width: 337px;
+  height: 52px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 102px;
+  left: 23px;
+  overflow: hidden;
+}
+.v1_6 {
+  width: 337px;
+  height: 52px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 180px;
+  left: 23px;
+  overflow: hidden;
+}
+.v1_7 {
+  width: 337px;
+  height: 52px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 258px;
+  left: 23px;
+  overflow: hidden;
+}
+.v1_8 {
+  width: 337px;
+  height: 52px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 336px;
+  left: 23px;
+  overflow: hidden;
+}
+.v1_9 {
+  width: 337px;
+  height: 52px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 414px;
+  left: 23px;
+  overflow: hidden;
+}
